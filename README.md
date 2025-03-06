@@ -60,7 +60,7 @@ NB:To run the notebooks or scripts in Spyder, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone [https://github.com/your-username/project-name.git](https://github.com/Happiness18/Cognifyz-Technologies-Internship-Tasks)
    ```
 
 2. Navigate to the project directory:
