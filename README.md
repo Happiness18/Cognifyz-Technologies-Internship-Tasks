@@ -54,43 +54,6 @@ available features.
    - Creating interactive visualizations to represent data insights.
    - Using libraries like Matplotlib, Seaborn, and Plotly to build effective charts (e.g., bar charts, heatmaps, scatter plots, etc.).
  
-Installation:
-
-NB:To run the notebooks or scripts in Spyder, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/project-name.git](https://github.com/Happiness18/Cognifyz-Technologies-Internship-Tasks)
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd project-name
-   ```
-
-3. Create a virtual environment (optional, but recommended):
-   ```bash
-   python -m venv env
-   ```
-
-4. Activate the virtual environment:
-   - On Windows:
-     ```bash
-     .\env\Scripts\activate
-     ```
-   - On macOS/Linux:
-     ```bash
-     source env/bin/activate
-     ```
-
-5. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Open the project in Spyder:
-   - Launch Spyder IDE and open the project directory, then you can start working on the scripts.
-
 Usage
 
 1.Using Spyder:
